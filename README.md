@@ -1,21 +1,23 @@
-# Hello! I'm Payton Shaltis 👋
+# Hello! 👋 I'm Payton Shaltis
 
-<div align="center" style="font-size: 20px" >
+<div align="center" >
 
-<a href=mailto:shaltisp@gmail.com title="shaltisp@gmail.com">Email</a> |
-<a href="https://linkedin.com/in/paytonshaltis" title="paytonshaltis">LinkedIn</a> | <a href="https://paytonshaltis.com" title="paytonshaltis.com">Website</a> | <a href="https://paytonshaltis.com/public/resume.pdf" title="Hosted on paytonshaltis.com">Resume</a>
+### <a href=mailto:shaltisp@gmail.com title="shaltisp@gmail.com">Email</a> | <a href="https://linkedin.com/in/paytonshaltis" title="paytonshaltis">LinkedIn</a> | <a href="https://paytonshaltis.com" title="paytonshaltis.com">Website</a> | <a href="https://paytonshaltis.com/public/resume.pdf" title="Hosted on paytonshaltis.com">Resume</a>
 
 </div>
 
 ## 🧑 About Me
 
-I'm a senior Computer Science student at The College of New Jersey. I'm also...
+I'm a senior Computer Science student at The College of New Jersey, set to graduate in May of 2023. I love learning about new web technologies and frameworks that aid in creating responsive and accessible websites, and finding ways to implement them into my own projects. I'm also...
 
 - 👨‍💻 An aspiring **Full-Stack Web Developer**
-- 🤔 An enthusiastic **Philosophy Minor**
-- 🔭 Working on **[Freighter]()** and **[Tello Follow]()**
-- 🌱 Learning **WordPress** and **React**
-- 📫 Reachable by email at **shaltisp@gmail.com**
+- 🤔 An enthusiastic Philosophy Minor
+- 🔭 Working on [Freighter]() and [Tello Follow]()
+- 🌱 Learning WordPress and React
+- 👨‍🏫 A CS tutor for the TCNJ Tutoring Center and the [Quakerbridge Learning Center](https://www.quaker-bridge.org/#/)
+- 🎸 A guitar player and an avid fan of classic, psychedelic, and progressive rock
+- 🎮 A fan of video games and builder of my own custom PC
+- 📫 Reachable by email at shaltisp@gmail.com
 
 ## 💻 Projects
 
