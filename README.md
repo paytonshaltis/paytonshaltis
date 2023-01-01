@@ -1,13 +1,20 @@
-# Hello! I'm [Payton Shaltis](https://paytonshaltis.com) 👋
+![Payton Shaltis](header.png)
 
-## 📃 About Me
+<div style="font-size: 20px; display: flex;  justify-content: center" >
+
+<a href=mailto:shaltisp@gmail.com title="shaltisp@gmail.com">Email</a> |
+<a href="https://linkedin.com/in/paytonshaltis" title="paytonshaltis">LinkedIn</a> | <a href="https://paytonshaltis.com" title="paytonshaltis.com">Website</a> | <a href="https://paytonshaltis.com/public/resume.pdf" title="Hosted on paytonshaltis.com">Resume</a>
+
+</div>
+
+## 🧑 About Me
 
 I'm a senior Computer Science student at The College of New Jersey. I'm also...
 
-- 🤔 An enthusiastic **Philosophy minor**
-- 👨‍💻 An aspiring **Web Developer**
-- 🔭 Working on **Freighter**, a library for creating dynamic, customizable HTML carousels
-- 🌱 Currently learning **WordPress** and **React**
+- 👨‍💻 An aspiring **Full-Stack Web Developer**
+- 🤔 An enthusiastic **Philosophy Minor**
+- 🔭 Working on **[Freighter]()** and **[Tello Follow]()**
+- 🌱 Learning **WordPress** and **React**
 - 📫 Reachable by email at **shaltisp@gmail.com**
 
 ## 💻 Projects
@@ -60,11 +67,4 @@ I'm a senior Computer Science student at The College of New Jersey. I'm also...
 
 ## 📊 GitHub Stats
 
-![Payton's GitHub stats](https://github-readme-stats.vercel.app/api?username=paytonshaltis&show_icons=true&theme=radical)
-
-## 📲 Contact Info and Resources
-
-- Email me at **shaltisp@gmail.com**
-- Connect with me on **[LinkedIn](https://www.linkedin.com/in/paytonshaltis/)**
-- Check out my website at **https://paytonshaltis.com**
-- Download my **[resume](https://paytonshaltis.com/public/resume.pdf)**
+![Payton's GitHub stats](https://github-readme-stats.vercel.app/api?username=paytonshaltis&show_icons=true&theme=dark)
