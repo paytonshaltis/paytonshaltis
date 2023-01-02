@@ -50,7 +50,7 @@ I like working on a variety of projects in different areas of Computer Science, 
 
 ## 🛠️ Languages, Frameworks, and Tools
 
-A variety of technologies used to implement some of my projects. Click on an icon to see an entire list of the projects that use it!
+A variety of technologies used to implement some of my projects. Click on an icon to see a list of the projects that use it, as well as other background that I have with each!
 
 [<img src="./icons/vscode.svg" style="width: 50px"></img>](./vscode-projects.md)
 [<img src="./icons/git.svg" style="width: 50px"></img>](./git-projects.md)

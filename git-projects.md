@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="./icons/vscode.svg" width="150" height="150" />
+<img src="./icons/git.svg" width="150" height="150" />
 
-# Visual Studio Code
+# Git / GitHub
 
 </div>
 
-## Projects that use Visual Studio Code:
+## Projects that use Git / GitHub:
 
 <br>
 
