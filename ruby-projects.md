@@ -10,8 +10,6 @@
 
 ## Projects that use Ruby:
 
-<br>
-
 ### 🕸 Web Development
 
 - **[ACCR Mail Manager]()** - A full-stack web app for managing inmate paper mail used internally by [ACCR](https://www.atlanticcenter.org/) (The Atlantic Center for Capital Representation). This semester-long group project was developed for CSC-415: Software Engineering, and required multiple iterations of design, requirements gathering with an actual client, implementation, presentation, testing, and delivery.

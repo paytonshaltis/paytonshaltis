@@ -10,8 +10,6 @@
 
 ## Experience with Java:
 
-<br>
-
 ### Quaker Bridge Learning Center AP Computer Science Course
 
 While working at [QBLC](https://www.quaker-bridge.org) during the summer of 2021, I co-taught an AP Computer Science course for 35 local high school students. The course was taught in preparation for the AP Computer Science placement district exam, which required basic knowledge of the Java programming language. I was responsible for

@@ -10,8 +10,6 @@
 
 ## Experience with React:
 
-<br>
-
 ### HCD Web Development Internship
 
 During my internship at [HCD Research](https://www.hcdi.net/) in the summer of 2022, I helped with the design and implementation of a brand new web application for internal use. The project used React as its framework, as well as a number of other related technologies including React Router, Redux, and Material-UI. Due to a non-disclosure agreement, I am unable to share any code or many of the implementation details, but I was in part responsible for designing and implementing part of the main API, as well as helping to connect the frontend to the backend through this API.
