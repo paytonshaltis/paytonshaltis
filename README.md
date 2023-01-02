@@ -70,7 +70,3 @@ A variety of technologies used to implement some of my projects. Click on an ico
 [<img src="./icons/raspberry-pi.svg" style="width: 50px"></img>](./raspberry-pi-projects.md)
 [<img src="./icons/nodejs.svg" style="width: 50px"></img>](./nodejs-projects.md)
 [<img src="./icons/npm.svg" style="width: 50px"></img>](./npm-projects.md)
-
-## 📊 GitHub Stats
-
-![Payton's GitHub stats](https://github-readme-stats.vercel.app/api?username=paytonshaltis&show_icons=true&theme=dark)
