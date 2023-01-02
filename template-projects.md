@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="./icons/vscode.svg" width="150" height="150" />
+<img src="./icons/[tool name].svg" width="150" height="150" />
 
-# Visual Studio Code
+# [tool name]
 
 </div>
 
-VSCode has been my go-to text editor since my freshman year of college. I have used it exclusively for all of my programming projects, including the very text you are reading right now!
+[tool information]
 
 ### 🕸 Web Development
 

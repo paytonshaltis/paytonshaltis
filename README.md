@@ -53,23 +53,23 @@ I like working on a variety of projects in different areas of Computer Science, 
 A variety of technologies used to implement some of my projects. Click on an icon to see an entire list of the projects that use it!
 
 [<img src="./icons/vscode.svg" style="width: 50px"></img>](./vscode-projects.md)
-<img src="./icons/git.svg" style="width: 50px"></img>
-<img src="./icons/html.svg" style="width: 50px"></img>
-<img src="./icons/css.svg" style="width: 50px"></img>
-<img src="./icons/bootstrap.svg" style="width: 50px"></img>
-<img src="./icons/javascript.svg" style="width: 50px"></img>
-<img src="./icons/typescript.svg" style="width: 50px"></img>
-<img src="./icons/react.svg" style="width: 50px"></img>
-<img src="./icons/java.svg" style="width: 50px"></img>
-<img src="./icons/c.svg" style="width: 50px"></img>
-<img src="./icons/c++.svg" style="width: 50px"></img>
-<img src="./icons/python.svg" style="width: 50px"></img>
-<img src="./icons/ruby.svg" style="width: 50px"></img>
-<img src="./icons/mysql.svg" style="width: 50px"></img>
-<img src="./icons/postgresql.svg" style="width: 50px"></img>
-<img src="./icons/raspberry-pi.svg" style="width: 50px"></img>
-<img src="./icons/nodejs.svg" style="width: 50px"></img>
-<img src="./icons/npm.svg" style="width: 50px"></img>
+[<img src="./icons/git.svg" style="width: 50px"></img>](./git-projects.md)
+[<img src="./icons/html.svg" style="width: 50px"></img>](./html-projects.md)
+[<img src="./icons/css.svg" style="width: 50px"></img>](./css-projects.md)
+[<img src="./icons/bootstrap.svg" style="width: 50px"></img>](./bootstrap-projects.md)
+[<img src="./icons/javascript.svg" style="width: 50px"></img>](./javascript-projects.md)
+[<img src="./icons/typescript.svg" style="width: 50px"></img>](./typescript-projects.md)
+[<img src="./icons/react.svg" style="width: 50px"></img>](./react-projects.md)
+[<img src="./icons/java.svg" style="width: 50px"></img>](./java-projects.md)
+[<img src="./icons/c.svg" style="width: 50px"></img>](./c-projects.md)
+[<img src="./icons/c++.svg" style="width: 50px"></img>](./c++-projects.md)
+[<img src="./icons/python.svg" style="width: 50px"></img>](./python-projects.md)
+[<img src="./icons/ruby.svg" style="width: 50px"></img>](./ruby-projects.md)
+[<img src="./icons/mysql.svg" style="width: 50px"></img>](./mysql-projects.md)
+[<img src="./icons/postgresql.svg" style="width: 50px"></img>](./postgresql-projects.md)
+[<img src="./icons/raspberry-pi.svg" style="width: 50px"></img>](./raspberry-pi-projects.md)
+[<img src="./icons/nodejs.svg" style="width: 50px"></img>](./nodejs-projects.md)
+[<img src="./icons/npm.svg" style="width: 50px"></img>](./npm-projects.md)
 
 ## 📊 GitHub Stats
 
