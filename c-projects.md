@@ -16,4 +16,4 @@
 
 ### 🔠 Programming Languages
 
-- **[B-Minor]()** - A simple C-like language implemented over the course of a semester for CSC-425: Compilers and Interpreters. Includes a lexical analyzer, parser, and machine code generator for ARM-based processors, all written from scratch.
+- **[B-Minor](https://github.com/paytonshaltis/b-minor)** - A simple C-like language implemented over the course of a semester for CSC-425: Compilers and Interpreters. Includes a lexical analyzer, parser, and machine code generator for ARM-based processors, all written from scratch.
