@@ -1,27 +1,16 @@
-# Hello! 👋 I'm Payton Shaltis
+### [< Go Back](https://github.com/paytonshaltis)
 
-<div align="center" >
+---
 
-### <a href=mailto:shaltisp@gmail.com title="shaltisp@gmail.com">Email</a> | <a href="https://linkedin.com/in/paytonshaltis" title="paytonshaltis">LinkedIn</a> | <a href="https://paytonshaltis.com" title="paytonshaltis.com">Website</a> | <a href="https://paytonshaltis.com/public/resume.pdf" title="Hosted on paytonshaltis.com">Resume</a>
+<div align="center">
+
+<img src="./icons/vscode.svg" width="150" height="150" />
+
+# Visual Studio Code
 
 </div>
 
-## 🧑 About Me
-
-I'm a senior Computer Science student at The College of New Jersey, set to graduate in May of 2023. I love learning about new web technologies and frameworks that aid in creating responsive and accessible websites, and finding ways to implement them into my own projects. I'm also...
-
-- 👨‍💻 An aspiring **Full-Stack Web Developer**
-- 🤔 An enthusiastic Philosophy Minor
-- 🔭 Working on [Freighter]() and [Tello Follow]()
-- 🌱 Learning WordPress and React
-- 👨‍🏫 A CS tutor for the TCNJ Tutoring Center and the [Quakerbridge Learning Center](https://www.quaker-bridge.org/#/)
-- 🎸 A guitar player and an avid fan of classic, psychedelic, and progressive rock
-- 🎮 A fan of video games and builder of my own custom PC
-- 📫 Reachable by email at shaltisp@gmail.com
-
-## 💻 Projects
-
-I like working on a variety of projects in different areas of Computer Science, but my main areas of interest are Web Development, Computer Vision, and Automation. Here are some of my favorite projects that I've worked on over the last several years. Feel free to click on a project's name to visit the GitHub repository for it, where you can learn more about the languages used, the features implemented, and the technologies used to build it!
+VSCode has been my go-to text editor since my freshman year of college. I have used it exclusively for all of my programming projects, including the very text you are reading right now!
 
 ### 🕸 Web Development
 
@@ -47,30 +36,3 @@ I like working on a variety of projects in different areas of Computer Science, 
 ### 🔠 Programming Languages
 
 - **[B-Minor]()** - A simple C-like language implemented over the course of a semester for CSC-425: Compilers and Interpreters. Includes a lexical analyzer, parser, and machine code generator for ARM-based processors, all written from scratch.
-
-## 🛠️ Languages, Frameworks, and Tools
-
-A variety of technologies used to implement some of my projects. Click on an icon to see an entire list of the projects that use it!
-
-[<img src="./icons/vscode.svg" style="width: 50px"></img>](./vscode-projects.md)
-<img src="./icons/git.svg" style="width: 50px"></img>
-<img src="./icons/html.svg" style="width: 50px"></img>
-<img src="./icons/css.svg" style="width: 50px"></img>
-<img src="./icons/bootstrap.svg" style="width: 50px"></img>
-<img src="./icons/javascript.svg" style="width: 50px"></img>
-<img src="./icons/typescript.svg" style="width: 50px"></img>
-<img src="./icons/react.svg" style="width: 50px"></img>
-<img src="./icons/java.svg" style="width: 50px"></img>
-<img src="./icons/c.svg" style="width: 50px"></img>
-<img src="./icons/c++.svg" style="width: 50px"></img>
-<img src="./icons/python.svg" style="width: 50px"></img>
-<img src="./icons/ruby.svg" style="width: 50px"></img>
-<img src="./icons/mysql.svg" style="width: 50px"></img>
-<img src="./icons/postgresql.svg" style="width: 50px"></img>
-<img src="./icons/raspberry-pi.svg" style="width: 50px"></img>
-<img src="./icons/nodejs.svg" style="width: 50px"></img>
-<img src="./icons/npm.svg" style="width: 50px"></img>
-
-## 📊 GitHub Stats
-
-![Payton's GitHub stats](https://github-readme-stats.vercel.app/api?username=paytonshaltis&show_icons=true&theme=dark)
