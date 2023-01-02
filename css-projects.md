@@ -22,4 +22,4 @@
 
 ### 🤖 Automation
 
-- **[Amazon Bias Correction]()** - A web scraper for detecting and correcting Amazon product review bias. Uses a custom algorithm for determining if a review is biased, and implements a strategy for correcting it.
+- **[Amazon Bias Correction](https://github.com/paytonshaltis/amazon-bias-correction)** - A web scraper for detecting and correcting Amazon product review bias. Uses a custom algorithm for determining if a review is biased, and implements a strategy for correcting it.

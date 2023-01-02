@@ -41,7 +41,7 @@ I like working on a variety of projects in different areas of Computer Science, 
 
 ### 🤖 Automation
 
-- **[Amazon Bias Correction]()** - A web scraper for detecting and correcting Amazon product review bias. Uses a custom algorithm for determining if a review is biased, and implements a strategy for correcting it.
+- **[Amazon Bias Correction](https://github.com/paytonshaltis/amazon-bias-correction)** - A web scraper for detecting and correcting Amazon product review bias. Uses a custom algorithm for determining if a review is biased, and implements a strategy for correcting it.
 - **[Easy Enroll](https://github.com/paytonshaltis/easy-enroll)** - A script written to automatically prioritize college course registration based on a number of factors including student major, course prerequisites, and course availability.
 
 ### 🔠 Programming Languages
