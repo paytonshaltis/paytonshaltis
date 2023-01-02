@@ -23,8 +23,8 @@
 ### 👁 Computer Vision
 
 - **[Tello Follow](https://github.com/paytonshaltis/tello-follow)** - A program for controlling a DJI Tello drone via facial recognition and object detection based on HCI principles like color masking and object tracking.
-- **[Head Nod Detection]()** - A facial recognition system that determines if a user is currently nodding yes, no, or remaining still. Uses a number of points of interest and a custom algorithm in order to determine if movements should actually be considered as nods.
-- **[Arm Raise Detection]()** - A pose detection system that determines which of the user's arms are currently raised or lowered. Utilizes a simple algorithm for determining the current pose of both arms.
+- **[Head Nod Detection](https://github.com/paytonshaltis/head-nod-detection)** - A facial recognition system that determines if a user is currently nodding yes, no, or remaining still. Uses a number of points of interest and a custom algorithm in order to determine if movements should actually be considered as nods.
+- **[Arm Raise Detection](https://github.com/paytonshaltis/arm-raise-detection)** - A pose detection system that determines which of the user's arms are currently raised or lowered. Utilizes a simple algorithm for determining the current pose of both arms.
 
 ### 🤖 Automation
 
