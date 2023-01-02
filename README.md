@@ -10,7 +10,7 @@
 
 I'm a senior Computer Science student at The College of New Jersey, set to graduate in May of 2023. I love learning about new web technologies and frameworks that aid in creating responsive and accessible websites, and finding ways to implement them into my own projects. I'm also...
 
-- 👨‍💻 An aspiring **Full-Stack Web Developer**
+- 👨‍💻 An aspiring **Full-Stack Web Developer**, currently looking for work
 - 🤔 An enthusiastic Philosophy Minor
 - 🔭 Working on [Freighter](https://github.com/paytonshaltis/freighter) and [Tello Follow](https://github.com/paytonshaltis/tello-follow)
 - 🌱 Learning WordPress and React
