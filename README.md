@@ -16,7 +16,7 @@ I'm a senior Computer Science student at The College of New Jersey, set to gradu
 - 🌱 Learning WordPress and React
 - 👨‍🏫 A CS tutor for the TCNJ Tutoring Center and the [Quakerbridge Learning Center](https://www.quaker-bridge.org/#/)
 - 🎸 A guitar player and an avid fan of classic, psychedelic, and progressive rock
-- 🎮 A fan of video games and builder of my own custom PC
+- 🎮 A video game player and builder of my own custom PC
 - 📫 Reachable by email at shaltisp@gmail.com
 
 ## 💻 Projects
