@@ -21,7 +21,7 @@ I'm a senior Computer Science student at The College of New Jersey, set to gradu
 
 ## 💻 Projects
 
-I like working on a variety of projects in different areas of Computer Science, but my main areas of interest are Web Development, Computer Vision, and Automation. Here are some of my favorite projects that I've worked on over the last several years. Feel free to click on a project's name to visit the GitHub repository for it, where you can learn more about the languages used, the features implemented, and the technologies used to build it!
+I like working on a variety of projects in different areas of Computer Science, but my main areas of interest are Web Development, Computer Vision, and Automation. Here are some of my favorite projects that I've worked on over the last several years. Feel free to click on a project's name to visit the GitHub repository for it, where you can learn more about the languages I used, the features implemented, and the technologies learned to build it!
 
 ### 🕸 Web Development
 
