@@ -2,7 +2,7 @@
 
 <div align="center" >
 
-### <a href=mailto:shaltisp@gmail.com title="shaltisp@gmail.com">Email</a> | <a href="https://linkedin.com/in/paytonshaltis" title="paytonshaltis">LinkedIn</a> | <a href="https://paytonshaltis.com" title="paytonshaltis.com">Website</a> | <a href="https://paytonshaltis.com/public/resume.pdf" title="Hosted on paytonshaltis.com">Resume</a>
+### <a href=mailto:shaltisp@gmail.com title="shaltisp@gmail.com">Email</a> | <a href="https://linkedin.com/in/paytonshaltis" title="paytonshaltis">LinkedIn</a> | <a href="https://paytonshaltis.com" title="paytonshaltis.com">Website</a> | <a href="https://paytonshaltis.com/public/Payton%20Shaltis%20Resume.pdf" title="Hosted on paytonshaltis.com">Resume</a>
 
 </div>
 
