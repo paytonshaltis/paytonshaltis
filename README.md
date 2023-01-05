@@ -10,18 +10,18 @@
 
 I'm a senior Computer Science student at The College of New Jersey, set to graduate in May of 2023. I love learning about new web technologies and frameworks that aid in creating responsive and accessible websites, and finding ways to implement them into my own projects. I'm also...
 
-- 👨‍💻 An aspiring **Full-Stack Web Developer**
+- 👨‍💻 An aspiring **Full-Stack Web Developer**, currently looking for work
 - 🤔 An enthusiastic Philosophy Minor
 - 🔭 Working on [Freighter](https://github.com/paytonshaltis/freighter) and [Tello Follow](https://github.com/paytonshaltis/tello-follow)
 - 🌱 Learning WordPress and React
 - 👨‍🏫 A CS tutor for the TCNJ Tutoring Center and the [Quakerbridge Learning Center](https://www.quaker-bridge.org/#/)
 - 🎸 A guitar player and an avid fan of classic, psychedelic, and progressive rock
-- 🎮 A fan of video games and builder of my own custom PC
+- 🎮 A video game player and builder of my own custom PC
 - 📫 Reachable by email at shaltisp@gmail.com
 
 ## 💻 Projects
 
-I like working on a variety of projects in different areas of Computer Science, but my main areas of interest are Web Development, Computer Vision, and Automation. Here are some of my favorite projects that I've worked on over the last several years. Feel free to click on a project's name to visit the GitHub repository for it, where you can learn more about the languages used, the features implemented, and the technologies used to build it!
+I like working on a variety of projects in different areas of Computer Science, but my main areas of interest are Web Development, Computer Vision, and Automation. Here are some of my favorite projects that I've worked on over the last several years. Feel free to click on a project's name to visit the GitHub repository for it, where you can learn more about the languages I used, the features implemented, and the technologies learned to build it!
 
 ### 🕸 Web Development
 
