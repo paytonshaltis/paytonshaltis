@@ -25,7 +25,6 @@ I like working on a variety of projects in different areas of Computer Science, 
 
 <details open>
 <summary><h3 style="display: inline">🕸 Web Development</h3></summary>
-<br>
 
 - **[ACCR Mail Manager]()** - A full-stack web app for managing inmate paper mail used internally by [ACCR](https://www.atlanticcenter.org/) (The Atlantic Center for Capital Representation). This semester-long group project was developed for CSC-415: Software Engineering, and required multiple iterations of design, requirements gathering with an actual client, implementation, presentation, testing, and delivery.
 - **[TCNJ Library App](https://github.com/paytonshaltis/tcnj-library-app)** - A full-stack web and mobile application for tracking live study-room occupancy data. Created over the course of more than 10 years by several TCNJ CS majors. See the repository for my personal contributions to the project over a 2-semester research experience.
@@ -36,20 +35,29 @@ I like working on a variety of projects in different areas of Computer Science, 
 - **[Freighter](https://github.com/paytonshaltis/freighter)** - A flexible library for creating dynamic abd customizable HTML carousels. Also features a complete documentation website with demos, API docs, and downloads page.
 </details>
 
-### 👁 Computer Vision
+<details open>
+<summary><h3 style="display: inline">👁 Computer Vision</h3></summary>
 
 - **[Tello Follow](https://github.com/paytonshaltis/tello-follow)** - A program for controlling a DJI Tello drone via facial recognition and object detection based on HCI principles like color masking and object tracking.
 - **[Head Nod Detection](https://github.com/paytonshaltis/head-nod-detection)** - A facial recognition system that determines if a user is currently nodding yes, no, or remaining still. Uses a number of points of interest and a custom algorithm in order to determine if movements should actually be considered as nods.
 - **[Arm Raise Detection](https://github.com/paytonshaltis/arm-raise-detection)** - A pose detection system that determines which of the user's arms are currently raised or lowered. Utilizes a simple algorithm for determining the current pose of both arms.
 
-### 🤖 Automation
+</details>
+  
+<details open>
+<summary><h3 style="display: inline">🤖 Automation</h3></summary>
 
 - **[Amazon Bias Correction](https://github.com/paytonshaltis/amazon-bias-correction)** - A web scraper for detecting and correcting Amazon product review bias. Uses a custom algorithm for determining if a review is biased, and implements a strategy for correcting it.
 - **[Easy Enroll](https://github.com/paytonshaltis/easy-enroll)** - A script written to automatically prioritize college course registration based on a number of factors including student major, course prerequisites, and course availability.
 
-### 🔠 Programming Languages
+</details>
+
+<details open>
+<summary><h3 style="display: inline">🔠 Programming Languages</h3></summary>
 
 - **[B-Minor](https://github.com/paytonshaltis/b-minor)** - A simple C-like language implemented over the course of a semester for CSC-425: Compilers and Interpreters. Includes a lexical analyzer, parser, and machine code generator for ARM-based processors, all written from scratch.
+  
+</details>
 
 ## 🛠️ Languages, Frameworks, and Tools
 
