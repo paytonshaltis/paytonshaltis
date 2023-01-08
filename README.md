@@ -23,7 +23,9 @@ I'm a senior Computer Science student at The College of New Jersey, set to gradu
 
 I like working on a variety of projects in different areas of Computer Science, but my main areas of interest are Web Development, Computer Vision, and Automation. Here are some of my favorite projects that I've worked on over the last several years. Feel free to click on a project's name to visit the GitHub repository for it, where you can learn more about the languages I used, the features implemented, and the technologies learned to build it!
 
-### 🕸 Web Development
+<details open>
+<summary><h3 style="display: inline">🕸 Web Development</h3></summary>
+<br>
 
 - **[ACCR Mail Manager]()** - A full-stack web app for managing inmate paper mail used internally by [ACCR](https://www.atlanticcenter.org/) (The Atlantic Center for Capital Representation). This semester-long group project was developed for CSC-415: Software Engineering, and required multiple iterations of design, requirements gathering with an actual client, implementation, presentation, testing, and delivery.
 - **[TCNJ Library App](https://github.com/paytonshaltis/tcnj-library-app)** - A full-stack web and mobile application for tracking live study-room occupancy data. Created over the course of more than 10 years by several TCNJ CS majors. See the repository for my personal contributions to the project over a 2-semester research experience.
@@ -32,6 +34,7 @@ I like working on a variety of projects in different areas of Computer Science, 
 - **[Wordle Guesser](https://github.com/paytonshaltis/wordle-guesser)** - A simple web app that helps suggest words for the popular word game Wordle. Implements a custom algorithm for determining the next best word to guess based on the current state of the game.
 - **[Personal Website](https://github.com/paytonshaltis/personal-site)** - A simple personal website used for hosting my resume, contact links, and other minor information about me.
 - **[Freighter](https://github.com/paytonshaltis/freighter)** - A flexible library for creating dynamic abd customizable HTML carousels. Also features a complete documentation website with demos, API docs, and downloads page.
+</details>
 
 ### 👁 Computer Vision
 
