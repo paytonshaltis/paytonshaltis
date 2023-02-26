@@ -17,3 +17,9 @@ During my internship at [HCD Research](https://www.hcdi.net/) in the summer of 2
 In addition to the main web application, I also produced a few smaller React-based projects for internal use. They were designed and implemented in about a week each, and contained some minor amount of state management and a few functional components.
 
 I was inspired to continue learning the about the React framework even after my internship concluded, and am excited to use it to implement more projects in the future!
+
+## Projects that use React:
+
+### 🕸 Web Development
+
+- **[React Custom Select](https://github.com/paytonshaltis/react-custom-select)** - A simple React component written in TypeScript that implements both single and multiple select form elements. The component also supports full keyboard-accessibility.
