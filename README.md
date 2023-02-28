@@ -14,7 +14,7 @@ I'm a senior Computer Science student at The College of New Jersey, set to gradu
 - 🤔 An enthusiastic Philosophy Minor
 - 🚂 Happy to announce the first release of [Freighter](https://github.com/paytonshaltis/freighter)!
 - 🔭 Working on [Tello Follow](https://github.com/paytonshaltis/tello-follow) and a few web-based projects
-- 🌱 Learning WordPress, PHP, and Vue
+- 🌱 Learning Vue, WordPress, PHP
 - 👨‍🏫 A CS tutor for the TCNJ Tutoring Center and the [Quakerbridge Learning Center](https://www.quaker-bridge.org/#/)
 - 🎸 A guitar player and an avid fan of classic, psychedelic, and progressive rock
 - 🎮 A video game player and builder of my own custom PC
