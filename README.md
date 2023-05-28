@@ -8,21 +8,20 @@
 
 ## 🧑 About Me
 
-I'm a senior Computer Science student at The College of New Jersey, set to graduate in May of 2023. I love learning about new web technologies and frameworks that aid in creating responsive and accessible websites, and finding ways to implement them into my own projects. I'm also...
+I'm a recently-graduated Computer Science student at The College of New Jersey as of May 2023. I love learning about new web technologies and frameworks that aid in creating responsive and accessible websites, and finding ways to implement them into my own projects. I'm also...
 
-- 👨‍💻 An aspiring **Full-Stack Web Developer**, currently looking for work
-- 🤔 An enthusiastic Philosophy Minor
-- 🚂 Happy to announce the first release of [Freighter](https://github.com/paytonshaltis/freighter)!
-- 🔭 Working on [Tello Follow](https://github.com/paytonshaltis/tello-follow) and a few web-based projects
-- 🌱 Learning Vue, WordPress, PHP
-- 👨‍🏫 A CS tutor for the TCNJ Tutoring Center and the [Quakerbridge Learning Center](https://www.quaker-bridge.org/#/)
+- 👨‍💻 A recently-graduated Computer Scientist
+- 🤔 Interested in all things Philosophy...
+- 🔭 Working on a simple [neural network library](https://github.com/paytonshaltis/neural-net-lib)
+- 🌱 Learning C# and the basics of neural networks
+- 👨‍🏫 A CS tutor for the [Quakerbridge Learning Center](https://www.quaker-bridge.org/#/)
 - 🎸 A guitar player and an avid fan of classic, psychedelic, and progressive rock
 - 🎮 A video game player and builder of my own custom PC
 - 📫 Reachable by email at shaltisp@gmail.com
 
 ## 💻 Projects
 
-I like working on a variety of projects in different areas of Computer Science, but my main areas of interest are Web Development, Computer Vision, and Automation. Here are some of my favorite projects that I've worked on over the last several years. Feel free to click on a project's name to visit the GitHub repository for it, where you can learn more about the languages I used, the features implemented, and the technologies learned to build it!
+I like working on a variety of projects in different areas of Computer Science, but my main areas of interest are Web Development, ML / Computer Vision, and Automation. Here are some of my favorite projects that I've worked on over the last several years. Feel free to click on a project's name to visit the GitHub repository for it, where you can learn more about the languages I used, the features implemented, and the technologies learned to build it!
 
 <details open>
 <summary><h3 style="display: inline">🕸 Web Development</h3></summary>
@@ -39,11 +38,12 @@ I like working on a variety of projects in different areas of Computer Science, 
 </details>
 
 <details open>
-<summary><h3 style="display: inline">👁 Computer Vision</h3></summary>
+<summary><h3 style="display: inline">🧠 Machine Learning / 👁 Computer Vision</h3></summary>
 
 - **[Tello Follow](https://github.com/paytonshaltis/tello-follow)** - A program for controlling a DJI Tello drone via facial recognition and object detection based on HCI principles like color masking and object tracking.
 - **[Head Nod Detection](https://github.com/paytonshaltis/head-nod-detection)** - A facial recognition system that determines if a user is currently nodding yes, no, or remaining still. Uses a number of points of interest and a custom algorithm in order to determine if movements should actually be considered as nods.
 - **[Arm Raise Detection](https://github.com/paytonshaltis/arm-raise-detection)** - A pose detection system that determines which of the user's arms are currently raised or lowered. Utilizes a simple algorithm for determining the current pose of both arms.
+- **[Neural Network Library](https://github.com/paytonshaltis/neural-net-lib)** - A simple neural network library that allows for simple layer and activation function customization. Includes small examples featuring the [MNIST](https://en.wikipedia.org/wiki/MNIST_database) dataset of hand-written numbers.
 
 </details>
   
