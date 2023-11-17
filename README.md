@@ -8,12 +8,12 @@
 
 ## 🧑 About Me
 
-I'm a recently-graduated Computer Science student at The College of New Jersey as of May 2023. I love learning about new web technologies and frameworks that aid in creating responsive and accessible websites, and finding ways to implement them into my own projects. I'm also...
+I'm a Computer Scientist at Naval Air Systems Command (NAVAIR). I love learning about new web technologies and frameworks that aid in creating responsive and accessible websites, and finding ways to implement them into my own projects. I'm also...
 
-- 👨‍💻 A recently-graduated Computer Scientist
+- 👨‍💻 A TCNJ Class of 2023 alumnus
 - 🤔 Interested in all things Philosophy...
 - 🔭 Working on a simple [neural network library](https://github.com/paytonshaltis/neural-net-lib)
-- 🌱 Learning C# and the basics of neural networks
+- 🌱 Learning C# and .NET
 - 👨‍🏫 A CS tutor for the [Quakerbridge Learning Center](https://www.quaker-bridge.org/#/)
 - 🎸 A guitar player and an avid fan of classic, psychedelic, and progressive rock
 - 🎮 A video game player and builder of my own custom PC
